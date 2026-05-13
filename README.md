@@ -1,4 +1,4 @@
-# [Transaction Monitoring - An Anti-Money Laundering System](https://youtu.be/MUWR2QZlUnk)
+# Enterprise-AML-Transaction-Monitoring-System
 
 ## Problem
 
@@ -6,7 +6,7 @@ Money laundering is the illegal process of concealing the origins of money obtai
 
 Anti-money laundering (AML) transaction monitoring software allows banks and other financial institutions to monitor customer transactions on a daily basis or in real-time for risk. Our solution will automate the whole process of detecting a suspected money laundering case.
 
-![](images/ML.png)
+
 
 ## Implementation:
 
@@ -24,7 +24,7 @@ By combining these information with analysis of customers’ historical informat
 
 ## Instructions
 
-1. Clone this repository using `git clone https://github.com/UtkarshChaurasia/Transaction-Monitoring.git`
+1. Clone this repository using `git clone https://github.com/kadamraamesh09-coder/Enterprise-AML-Transaction-Monitoring-System'
 2. Install python using `sudo apt-get install python3.6`
 3. Switch to repository folder. 
 3. Install all the required libraries using `pip install -r requirements.txt`
